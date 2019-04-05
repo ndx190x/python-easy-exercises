@@ -1,7 +1,7 @@
 # python-easy-exercises
 Giới thiệu một số bài tập khá cơ bản được xử lý bằng ngôn ngữ lập trình Python
 
-## Bài 01
+## Bài 001
 **Đề bài:**
 Viết chương trình tính tuổi cho một người. Người dùng sẽ nhập vào năm sinh và chương trình xuất ra số tuổi tương ứng.
 
@@ -9,10 +9,8 @@ Viết chương trình tính tuổi cho một người. Người dùng sẽ nh�
 
 
 
-## Bài 02
+## Bài 002
 **Đề bài:**
-**Bài 002**:
-
 
 Viết hàm tính tiền đi taxi từ số km cho trước, biết:
 
@@ -26,3 +24,15 @@ Nếu số km > 120 km sẽ được giảm 10% trên tổng số tiền.
 
 
 **Code:** [002.ipynb](/01_09/002.ipynb)
+
+
+## Bài 003:
+**Đề bài:**
+
+Tính tổng của các chữ số của một số nguyên.
+
+**Ví dụ:**               
+
+Input:               1234
+
+Output:           10
