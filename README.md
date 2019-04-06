@@ -36,3 +36,17 @@ Tính tổng của các chữ số của một số nguyên.
 Input:               1234
 
 Output:           10
+
+**Code:** [003.ipynb](/01_09/003.ipynb)
+
+# Bài 004
+
+Cho số n, xác định xem n có phải là số đối xứng hay không.
+
+**Ví dụ:**               
+
+Input:               12321
+
+Output:           YES
+
+**Code:** [004.ipynb](/01_09/004.ipynb)
