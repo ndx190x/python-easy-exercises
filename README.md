@@ -50,3 +50,17 @@ Input:               12321
 Output:           YES
 
 **Code:** [004.ipynb](/01_09/004.ipynb)
+
+
+# Bài 5
+
+Đếm số chữ số của một số nguyên dương.
+
+Ví dụ:
+
+Input:              2468
+
+Output:           4
+
+**Code:** [005.ipynb](/01_09/005.ipynb)
+
