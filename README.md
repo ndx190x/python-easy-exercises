@@ -64,3 +64,15 @@ Output:           4
 
 **Code:** [005.ipynb](/01_09/005.ipynb)
 
+# Bài 006. Factorial of Number
+
+Cho số n, tính giai thừa của số nguyên dương n.
+
+Ví dụ:
+
+Input:                 5
+
+Output:             5! = 120
+
+
+**Code:** [006.ipynb](/01_09/006-009.ipynb)
