@@ -76,3 +76,14 @@ Output:             5! = 120
 
 
 **Code:** [006.ipynb](/01_09/006-009.ipynb)
+
+# Bài 007. Kiểm tra số tự mãn (Narcissistic Number)
+
+Cho số nguyên dương n, kiểm tra n có là số tự mãn (Narcissistic Number) không.
+
+**Ví dụ:**
+
+Input:                                153
+
+Output:            Là số tự mãn 3 chữ số
+
