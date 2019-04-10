@@ -87,3 +87,19 @@ Input:                                153
 
 Output:            Là số tự mãn 3 chữ số
 
+
+# Bài 007. Kiểm tra năm nhuận (Leap year)
+
+Cho số nguyên dương n, kiểm tra n có là năm nhuận hay không. 
+
+**Ví dụ:**
+
+Input: 2000
+
+Output: 2000 is a leap year 
+
+
+Input: 2001
+
+Output: 2001 is not a leap year 
+
