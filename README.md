@@ -87,8 +87,9 @@ Input:                                153
 
 Output:            Là số tự mãn 3 chữ số
 
+**Code:** [007.ipynb](/01_09/006-009.ipynb)
 
-# Bài 007. Kiểm tra năm nhuận (Leap year)
+# Bài 008. Kiểm tra năm nhuận (Leap year)
 
 Cho số nguyên dương n, kiểm tra n có là năm nhuận hay không. 
 
@@ -103,3 +104,16 @@ Input: 2001
 
 Output: 2001 is not a leap year 
 
+**Code:** [008.ipynb](/01_09/006-009.ipynb)
+
+# Bài 009. Kiểm tra ngày hợp lệ
+Viết chương trình kiểm tra ngày (gồm 3 thành phần là ngày, tháng, năm) cho trước có phải là một ngày hợp lệ.
+
+Định nghĩa ngày hợp lệ:
+
+Một ngày được gọi là hợp lệ (có thật) khi:
+- Năm là số dương (lớn hơn 0).
+- Tháng từ 1 đến 12.
+- Ngày từ 1 đến số ngày tối đa của tháng đó.
+
+**Code:** [009.ipynb](/01_09/006-009.ipynb)
